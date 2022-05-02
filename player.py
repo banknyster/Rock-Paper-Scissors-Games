@@ -1,6 +1,6 @@
 
 playerHand = ''
-posibleHand = ["rock", "paper", "scissors","exit"]
+posibleHand = ["rock", "paper", "scissors","exit","stat"]
 
 def setHand(self, inputData):
     self.playerHand = inputData
